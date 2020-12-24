@@ -1,0 +1,4 @@
+C:\Users\tuxed\OneDrive\Desktop\GitHub\Programming-Problems-Solution\Codewars\C#\obj\Debug\netcoreapp3.1\Codewars.csprojAssemblyReference.cache
+C:\Users\tuxed\OneDrive\Desktop\GitHub\Programming-Problems-Solution\Codewars\C#\obj\Debug\netcoreapp3.1\Codewars.AssemblyInfoInputs.cache
+C:\Users\tuxed\OneDrive\Desktop\GitHub\Programming-Problems-Solution\Codewars\C#\obj\Debug\netcoreapp3.1\Codewars.AssemblyInfo.cs
+C:\Users\tuxed\OneDrive\Desktop\GitHub\Programming-Problems-Solution\Codewars\C#\obj\Debug\netcoreapp3.1\Codewars.csproj.CoreCompileInputs.cache
