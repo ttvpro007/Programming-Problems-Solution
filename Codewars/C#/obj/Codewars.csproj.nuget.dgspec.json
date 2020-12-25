@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tuxed\\OneDrive\\Desktop\\GitHub\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj": {}
+    "C:\\Users\\Vi Tiet\\Desktop\\GitHub Projects\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tuxed\\OneDrive\\Desktop\\GitHub\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj": {
+    "C:\\Users\\Vi Tiet\\Desktop\\GitHub Projects\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tuxed\\OneDrive\\Desktop\\GitHub\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj",
+        "projectUniqueName": "C:\\Users\\Vi Tiet\\Desktop\\GitHub Projects\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj",
         "projectName": "Codewars",
-        "projectPath": "C:\\Users\\tuxed\\OneDrive\\Desktop\\GitHub\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj",
-        "packagesPath": "C:\\Users\\tuxed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tuxed\\OneDrive\\Desktop\\GitHub\\Programming-Problems-Solution\\Codewars\\C#\\obj\\",
+        "projectPath": "C:\\Users\\Vi Tiet\\Desktop\\GitHub Projects\\Programming-Problems-Solution\\Codewars\\C#\\Codewars.csproj",
+        "packagesPath": "C:\\Users\\Vi Tiet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vi Tiet\\Desktop\\GitHub Projects\\Programming-Problems-Solution\\Codewars\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\tuxed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vi Tiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
