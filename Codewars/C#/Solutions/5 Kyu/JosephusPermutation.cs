@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Codewars.Solutions._5_Kyu
 {
@@ -69,7 +67,7 @@ namespace Codewars.Solutions._5_Kyu
     ///
     ///josephus([1,2,3,4,5,6,7],3)==[3,6,2,7,5,1,4]
     ///For more info, browse the Josephus Permutation page on wikipedia; related kata: Josephus Survivor.
-    
+
     class JosephusPermutation
     {
         public static List<object> Solution(List<object> items, int k)

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Codewars.Solutions._4_Kyu
 {
@@ -15,7 +13,7 @@ namespace Codewars.Solutions._4_Kyu
     ///The input numbers are big.
     ///The input is a string of only digits
     ///The numbers are positives
-    
+
     class AddingBigNumbers
     {
         public static string Solution(string a, string b)
