@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="6 Kyu">
+      <UniqueIdentifier>{cb6a7f63-a8e9-404d-b06c-82407ef43023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="6 Kyu\TortoiseRacing">
+      <UniqueIdentifier>{9cd4f606-a9ee-4b23-afa4-485ccf6ca4ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Codewars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TortoiseRacing.cpp">
+      <Filter>6 Kyu\TortoiseRacing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TortoiseRacing.h">
+      <Filter>6 Kyu\TortoiseRacing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
