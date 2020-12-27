@@ -1,4 +1,5 @@
 ﻿using System;
+using Codewars.Solutions._4_Kyu;
 
 namespace Codewars
 {
@@ -6,7 +7,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
