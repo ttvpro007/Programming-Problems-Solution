@@ -31,7 +31,7 @@ namespace Codewars.Solutions._5_Kyu
 
     class WeightForWeight
     {
-        public static string orderWeight(string str)
+        public static string Solution(string str)
         {
             return string.Join(' ', str.Split(' ').OrderBy(w => w.Sum(c => char.GetNumericValue(c))).ThenBy(w => w));
         }

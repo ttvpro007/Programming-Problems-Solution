@@ -4,7 +4,8 @@ using System.Linq;
 
 namespace Codewars.Solutions._4_Kyu
 {
-    ///A famous casino is suddenly faced with a sharp decline of their revenues.They decide to offer Texas hold'em also online. Can you help them by writing an algorithm that can rank poker hands?
+    ///A famous casino is suddenly faced with a sharp decline of their revenues.They decide to offer Texas hold'em also online. 
+    ///Can you help them by writing an algorithm that can rank poker hands?
     ///
     ///Task
     ///Create a poker hand that has a method to compare itself to another poker hand:

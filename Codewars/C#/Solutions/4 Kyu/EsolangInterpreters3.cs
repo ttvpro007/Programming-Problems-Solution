@@ -64,7 +64,7 @@ namespace Codewars.Solutions._4_Kyu
 
     public class PaintFuck
     {
-        public static string Interpret(string code, int iterations, int width, int height)
+        public static string Interpreter(string code, int iterations, int width, int height)
         {
             PaintFuckProcessor processor = new PaintFuckProcessor(new BitPaintFuckModule(width, height));
             return processor.Process(code, iterations);

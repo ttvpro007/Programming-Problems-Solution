@@ -14,7 +14,7 @@
 
     class BuildAPileOfCubes
     {
-        public static long findNb(long m)
+        public static long Solution(long m)
         {
             long vol = 0, level = 0;
             while (vol < m)

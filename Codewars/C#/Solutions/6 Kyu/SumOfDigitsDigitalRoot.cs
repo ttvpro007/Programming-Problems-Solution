@@ -9,7 +9,7 @@ namespace Codewars.Solutions._6_Kyu
     
     class SumOfDigitsDigitalRoot
     {
-        public int DigitalRoot(long n)
+        public int Solution(long n)
         {
             // better solution: return (int) (1 + (n - 1) % 9); https://en.wikipedia.org/wiki/Digital_root#Congruence_formula
             // brute force solution: return n != 0 && n % 9 == 0 ? 9 : (int)(n % 9);

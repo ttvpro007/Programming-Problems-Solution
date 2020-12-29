@@ -28,7 +28,7 @@ namespace Codewars.Solutions._6_Kyu
 
     class PiApproximation
     {
-        public static ArrayList iterPi(double epsilon)
+        public static ArrayList Solution(double epsilon)
         {
             int iter = 0;
             double piDiv4 = 0;

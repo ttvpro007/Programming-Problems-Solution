@@ -7,7 +7,7 @@
         ///original string. You don't have to worry with strings with less than two 
         ///characters.
         
-        public static string Remove_char(string s)
+        public static string Solution(string s)
         {
             return s.Length >= 2 ? s.Remove(s.Length - 1, 1).Remove(0, 1) : string.Empty;
         }

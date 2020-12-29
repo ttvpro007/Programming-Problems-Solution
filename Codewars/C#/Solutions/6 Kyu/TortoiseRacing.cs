@@ -36,7 +36,7 @@
 
     class TortoiseRacing
     {
-        public static int[] Race(int v1, int v2, int x10)
+        public static int[] Solution(int v1, int v2, int x10)
         {
             return v2 > v1 ? null : new int[] { x10 / (v2 - v1), (x10 * 60 / (v2 - v1)) % 60, (x10 * 3600 / (v2 - v1)) % 60 };
         }

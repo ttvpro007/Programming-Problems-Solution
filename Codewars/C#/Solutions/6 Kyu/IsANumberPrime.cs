@@ -19,7 +19,7 @@ namespace Codewars.Solutions._6_Kyu
 
     class IsANumberPrime
     { 
-        public static bool IsPrime(int n)
+        public static bool Solution(int n)
         {
             return n > 1 && FindFactors(n).Count() == 2;
         }

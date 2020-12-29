@@ -14,7 +14,7 @@ namespace Codewars.Solutions._6_Kyu
 
     class HighestScoringWord
     {
-        public static string High(string str) => str.Split(' ').OrderByDescending(w => w.Sum(c => GetScore(c))).First();
+        public static string Solution(string str) => str.Split(' ').OrderByDescending(w => w.Sum(c => GetScore(c))).First();
         public static int GetScore(char chr) => "abcdefghijklmnopqrstuvwxyz".IndexOf(chr) + 1;
 
         // other solution

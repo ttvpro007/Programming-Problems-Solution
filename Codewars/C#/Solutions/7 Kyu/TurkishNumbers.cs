@@ -47,7 +47,7 @@ namespace Codewars.Solutions._7_Kyu
 
     class TurkishNumbers
     {
-        public static string GetTurkishNumber(int num)
+        public static string Solution(int num)
         {
             return num < 10 || num % 10 == 0 ? IntegerToTurkish[num] : IntegerToTurkish[num - num % 10] + " " + IntegerToTurkish[num % 10];
         }

@@ -6,7 +6,7 @@
 
     class ReverseSequence
     {
-        public static int[] ReverseSeq(int n)
+        public static int[] Solution(int n)
         {
             int[] result = new int[n];
             for (int i = 0; n > 0; n--, i++)

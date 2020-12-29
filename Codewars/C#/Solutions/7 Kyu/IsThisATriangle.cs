@@ -7,7 +7,7 @@
 
     class IsThisATriangle
     {
-        public static bool IsTriangle(int a, int b, int c)
+        public static bool Solution(int a, int b, int c)
         {
             var sideList = new int[3] { a, b, c };
             for (int i = 0; i < 3; i++)
