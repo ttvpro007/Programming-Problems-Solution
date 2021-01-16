@@ -11,6 +11,9 @@
     <Filter Include="6 Kyu\TortoiseRacing">
       <UniqueIdentifier>{9cd4f606-a9ee-4b23-afa4-485ccf6ca4ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="6 Kyu\TheSupermarketQueue">
+      <UniqueIdentifier>{d99d01f1-39f5-4c53-b72f-a6574c1fcf34}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Codewars.cpp">
@@ -19,10 +22,14 @@
     <ClCompile Include="TortoiseRacing.cpp">
       <Filter>6 Kyu\TortoiseRacing</Filter>
     </ClCompile>
+    <ClCompile Include="TheSupermarketQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TortoiseRacing.h">
       <Filter>6 Kyu\TortoiseRacing</Filter>
     </ClInclude>
+    <ClInclude Include="TheSupermarketQueue.h" />
   </ItemGroup>
 </Project>
