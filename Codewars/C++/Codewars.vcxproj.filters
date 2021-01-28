@@ -23,13 +23,15 @@
       <Filter>6 Kyu\TortoiseRacing</Filter>
     </ClCompile>
     <ClCompile Include="TheSupermarketQueue.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>6 Kyu\TheSupermarketQueue</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TortoiseRacing.h">
       <Filter>6 Kyu\TortoiseRacing</Filter>
     </ClInclude>
-    <ClInclude Include="TheSupermarketQueue.h" />
+    <ClInclude Include="TheSupermarketQueue.h">
+      <Filter>6 Kyu\TheSupermarketQueue</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
